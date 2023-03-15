@@ -1,0 +1,23 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #0d65bd;
+}
+
+.cuerpoLogin {
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+    background-repeat: no-repeat;
+    height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -100;
+}
+
+
+
+
+.palabra {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #73657B;
+}
